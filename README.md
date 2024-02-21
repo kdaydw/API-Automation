@@ -17,4 +17,5 @@ Digital Skola API Automation using Supertest
 2. Open report that has name `pass_[date]-mochawesome-report.html`
 
 ### Sample report
+![api-automation](https://github.com/kdaydw/API-Automation/assets/160764367/cc8b170b-c9c9-4f35-9087-ffb7049e8cb2)
 
